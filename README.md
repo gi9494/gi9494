@@ -1,16 +1,13 @@
-## Hi there 👋
+# Giulia Pizziconi
+### Senior AI & Data Scientist | ex-Amazon
 
-<!--
-**gi9494/gi9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI & Data Scientist with 7+ years of experience building end-to-end data pipelines and **Agentic AI Systems** in high-ownership and enterprise environments (Amazon, Banking / Risk Analytics).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Core Tech Stack
+* **AI & LLM Orchestration:** Multi-Agent Systems, LangGraph, Google Agent Development Kit, RAG, LLM Evaluation
+* **Data & Machine Learning:** Python, DuckDB, Advanced SQL, Data Modeling
+* **Domain Focus:** Agentic Workflows, Anti-Money Laundering (AML) / Risk Analytics, System Architecture
+
+---
